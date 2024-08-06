@@ -8,16 +8,13 @@ To build such an app, you can leverage various tools and libraries, including Py
 
 The app's functionality aligns with the growing need for streamlined recruitment processes and the increasing reliance on technology to evaluate and process job applications. By providing users with a detailed analysis of their resumes, the app empowers job seekers to optimize their resumes for better visibility and compatibility with ATS.
 
-![2024-08-06 14-48-45 (1)](https://github.com/user-attachments/assets/9d47a3c8-38a4-4eef-8a67-e00d349107cf)
-
 ## Overview: 
 This App is created for job seekers to test whether their resumes are ATS friendly or not, if our App is able to parse your details and show it, then assume that everything is good.
 
+![ezgif-5-8b5c092ee2](https://github.com/user-attachments/assets/6fe17d0b-8dcf-4ef3-b63c-489eee944702)
+
 ## Features: 
 Ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
-
-## Installation: 
-Run the pip install requirements.txt to install and set up the app, including any dependencies and prerequisites.
 
 ## Usage: 
 Just upload your resume in pdf format, and see for yourself :)
@@ -62,5 +59,6 @@ python main.py
 ```
 Open your web browser and go to http://127.0.0.1:5000/ to see the app in action.
 
+## Conclusion
     
 Overall, the development of a resume parser app using Flask represents a significant advancement in leveraging technology to support job seekers in optimizing their resumes for the modern recruitment landscape. This app aligns with the increasing demand for efficient and technology-driven solutions in the job application process, ultimately benefiting both job seekers and recruiters.
